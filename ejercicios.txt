@@ -1,0 +1,63 @@
+# Ejercicios en JavaScript
+
+# Ejercicio 01
+
+* Regresa un arreglo de números pares encontrados en el arreglo de entrada.
+
+# Ejercicio 02
+
+* Regresa la cantidad de convertir grados Centigrados a grados Fahrenheit.
+
+function ejercicio02(centigrados) {
+    return (centigrados * 1.8)+ 32;
+    }
+
+# Ejercicio 03
+
+* Regresa el promedio de los números que conforman el arreglo de entrada.
+
+# Ejercicio 04
+
+* Regresa un arreglo ordenado de mayor a menor de los números que conforman
+  el arreglo de entrada
+
+# Ejercicio 05
+
+* Regresa un arreglo con la suma de los números de cada uno de los arreglos
+  anidados que conforman el arreglo de entrada.
+
+# Ejercicio 06
+
+* Regresa un objeto con las siguientes llaves: "suma", "resta",
+  "multiplicacion" y "division" donde sus valores son el resultado de las
+  operaciones con dos números como entrada.
+
+# Ejercicio 07
+
+* Regresa un objeto con las siguientes llaves: "dia_actual", "dia_anterior" y
+  "dia_siguiente" en base al día como entrada.
+
+# Ejercicio 08
+
+* Regresa un objeto de "tipo" triangulo con las siguientes llaves: "base",
+  "altura" y "area"". "base" y "altura" son obtenidos como entrada, mientras
+  que "area" es una función que regresará el área del triangulo.
+
+# Ejercicio 09
+
+* Dado un objeto con dos llaves: "calificaciones" y "promedio", regresa el
+  mismo objeto pero modificando su llave "promedio" en base a las
+  "calificaciones". Las "calificaciones" son un arreglo de números enteros.
+
+# Ejercicio 10
+
+* Dado un arreglo de números enteros, regresa un objeto con las siguientes
+  llaves: "mayor", "menor" y "promedio". Los valores asociados a las llaves
+  corresponde al mayor de los números, al menor de los números y al promedio
+  de los números respectivamente.
+
+# Ejercicio 11
+
+* Dado dos arreglos, el primero con cadenas de caracteres y el segundo con
+  arreglos anidados, regresar un objeto donde las cadenas de caracteres del primer
+  arreglo sean sus llaves y los arreglos anidados del segundo sus valores.
